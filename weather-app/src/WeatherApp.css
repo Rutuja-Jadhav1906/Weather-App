@@ -1,0 +1,9 @@
+.weapp{
+    /* border: 1.5px solid black; */
+    height: 650px;
+    width: 400px;
+    align-items: center;
+    margin-top: 20px;
+    border-radius: 16px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}

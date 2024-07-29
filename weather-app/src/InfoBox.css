@@ -1,0 +1,24 @@
+.infobox{
+    text-align: center;
+}
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.cards{
+    width: 300px !important;
+}
+
+.heading{
+    font-weight: 500 !important;
+}
+
+/* .cardContent{
+    font-family: "Nunito Sans", sans-serif !important;
+  font-optical-sizing: auto !important;
+  font-weight: 400 !important;
+  font-style: normal !important; 
+} */

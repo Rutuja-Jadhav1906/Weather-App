@@ -1,0 +1,15 @@
+.searchBox{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.cityForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-direction: column; */
+}
+
+.btn{
+    background-color: black !important;
+}
